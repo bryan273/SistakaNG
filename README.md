@@ -47,53 +47,53 @@ SistakaNG is the final project of OOP programming foundations course in Universi
 ## Features
 
 * Main Panel : Welcome page
-![image](https://user-images.githubusercontent.com/88226713/174008673-e0663676-0bd5-44d5-9803-4d001908f826.png)
+<img src="https://user-images.githubusercontent.com/88226713/174008673-e0663676-0bd5-44d5-9803-4d001908f826.png" width="300">
 
 * Login Panel : Login with ID user/staff 
-![image](https://user-images.githubusercontent.com/88226713/174008736-081a6324-ea33-4520-a059-a991f7a773f7.png)
+<img src="https://user-images.githubusercontent.com/88226713/174008736-081a6324-ea33-4520-a059-a991f7a773f7.png" width="300">
 
 ### Staff Panel
 * Staff Menu : Consists of menu that staff can do
-![image](https://user-images.githubusercontent.com/88226713/174008894-a5edf6e7-d722-407f-9566-10f56d2ce020.png)
+<img src="https://user-images.githubusercontent.com/88226713/174008894-a5edf6e7-d722-407f-9566-10f56d2ce020.png" width="300">
 
 * Add Student : Add students data to system
-![image](https://user-images.githubusercontent.com/88226713/174009044-51bc2fe5-b480-4494-910e-db20e63be818.png)
+<img src="https://user-images.githubusercontent.com/88226713/174009044-51bc2fe5-b480-4494-910e-db20e63be818.png" width="300">
 
 * Add Lecturer : Add lecturer data to system
-![image](https://user-images.githubusercontent.com/88226713/174009136-e8938e49-0bb5-4f39-bef1-f27d050028b6.png)
+<img src="https://user-images.githubusercontent.com/88226713/174009136-e8938e49-0bb5-4f39-bef1-f27d050028b6.png" width="300">
 
 * Add Category : Add book category to system
-![image](https://user-images.githubusercontent.com/88226713/174009207-fdd30827-691e-47f0-9616-1820b288a219.png)
+<img src="https://user-images.githubusercontent.com/88226713/174009207-fdd30827-691e-47f0-9616-1820b288a219.png" width="300">
 
 * Add Book : Add book to system
-![image](https://user-images.githubusercontent.com/88226713/174009306-091362c1-92f4-4884-8b97-492fb128352a.png)
+<img src="https://user-images.githubusercontent.com/88226713/174009306-091362c1-92f4-4884-8b97-492fb128352a.png" width="300">
 
 * Remove Book : Remove book from system
-![image](https://user-images.githubusercontent.com/88226713/174009397-e51991e9-6f52-4cc9-83dc-3b3e4f5a3e26.png)
+<img src="https://user-images.githubusercontent.com/88226713/174009397-e51991e9-6f52-4cc9-83dc-3b3e4f5a3e26.png" width="300">
 
 * User rank : Check user rank (borrow the most books)
-![image](https://user-images.githubusercontent.com/88226713/174009771-2dfa4f87-9568-4baf-a189-27ae09794d27.png)
+<img src="https://user-images.githubusercontent.com/88226713/174009771-2dfa4f87-9568-4baf-a189-27ae09794d27.png" width="300">
 
 * User Detai : Check the user detail
-![image](https://user-images.githubusercontent.com/88226713/174009846-a7d1597d-7280-435a-849b-823199288624.png)
+<img src="https://user-images.githubusercontent.com/88226713/174009846-a7d1597d-7280-435a-849b-823199288624.png" width="300">
 
 * Book Borrower List : Display book borrower lists
-![image](https://user-images.githubusercontent.com/88226713/174009975-3ca17999-331b-41cd-b0a5-c77fe9278a69.png)
+<img src="https://user-images.githubusercontent.com/88226713/174009975-3ca17999-331b-41cd-b0a5-c77fe9278a69.png" width="300">
 
 ### User Panel
 * User Menu : Consists of menu that user can do
-![image](https://user-images.githubusercontent.com/88226713/174010685-8df5acd9-9b1f-4089-ab5c-bdd7cad3740b.png)
+<img src="https://user-images.githubusercontent.com/88226713/174010685-8df5acd9-9b1f-4089-ab5c-bdd7cad3740b.png" width="300">
 
 * Loan Book : Loan books from system
-![image](https://user-images.githubusercontent.com/88226713/174010162-09879add-608e-4ebd-8bb8-e743cfc80e1b.png)
+<img src="https://user-images.githubusercontent.com/88226713/174010162-09879add-608e-4ebd-8bb8-e743cfc80e1b.png" width="300">
 
 * Return Book : Return books to system
-![image](https://user-images.githubusercontent.com/88226713/174010234-ec424d44-1b8f-4612-af77-94a0d4fca9e8.png)
+<img src="https://user-images.githubusercontent.com/88226713/174010234-ec424d44-1b8f-4612-af77-94a0d4fca9e8.png" width="300">
 
 * Pay Fine : Pay fines for late return
-![image](https://user-images.githubusercontent.com/88226713/174010304-53700196-ec0f-440d-b980-787853af7270.png)
+<img src="https://user-images.githubusercontent.com/88226713/174010304-53700196-ec0f-440d-b980-787853af7270.png" width="300">
 
 * User Detail : Check the user detail
-![image](https://user-images.githubusercontent.com/88226713/174010377-122d666b-38f3-4e60-a2d9-8540bd496d37.png)
+<img src="https://user-images.githubusercontent.com/88226713/174010377-122d666b-38f3-4e60-a2d9-8540bd496d37.png" width="300">
 
 
