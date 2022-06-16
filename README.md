@@ -19,3 +19,28 @@ SistakaNG is the final project of OOP programming foundations course in Universi
   * IdGenerator : class to create students ID 
 * SistakaNG : main method to run the program that has been created 
 
+## Frontend files:
+* anggota
+  *  AnggotaHomePanel : panel for user menu
+  *  DetailUserPanel : panel for seeing user detail
+  *  PembayaranPanel : panel to pay loan fine
+  *  PeminjamanPanel : panel to loan books
+  *  PengembalianPanel : panel to return books
+* staf
+  *  DaftarPeminjamPanel : panel to see the list of the borrower
+  *  DetailAnggotaPanel : panel for seeing members detail
+  *  HapusBukuPanel : panel to remove books
+  *  PeringkatPanel : panel to see the users rank
+  *  StafHomePanel : panel for staf menu
+  *  TambahBukuPanel : panel to add books
+  *  TambahDosenPanel : panel to add lecturer members
+  *  TambahMahasiswaPanel : panel to add student members
+  *  TambahKategoriPanel : panel to add book categories
+* HomeGUI : panel change logic
+* SistakaPanel
+* WelcomePanel : SistakaNG home page
+* LoginPanel : panel for user/staf login
+
+## Main file
+SistakaNGUI : main program to execute the loan book system
+
