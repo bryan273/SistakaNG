@@ -1,8 +1,8 @@
 # SistakaNG
-A program that helps to maintain loan book system
+A program that helps to maintain a book loan system
 
 ## Description
-SistakaNG is the final project of OOP programming foundations course in University of Indonesia. The purpose of the program is to maintain book loan system in the library.
+SistakaNG is the final project of the OOP programming foundations course at the University of Indonesia. The program's purpose is to maintain the library's book loan system.
 
 ## Backend files
 * buku
@@ -11,12 +11,12 @@ SistakaNG is the final project of OOP programming foundations course in Universi
   * Peminjaman : represents each of loaned books by members
 * pengguna
   * CanBorrow : interface to be implemented for the class that can borrow
-  * Pengguna : abstract class that represents the users of SistakaNG
+  * Pengguna : an abstract class that represents the users of SistakaNG
   * Staf : representation of staff who are users of SistakaNG
   * Anggota : abstract class which is a subclass of Pengguna
   * Mahasiswa : representation of students who are users of SistakaNG
   * Dosen : representation of lecturers who are users of SistakaNG
-  * IdGenerator : class to create students ID 
+  * IdGenerator : class to create student's ID 
 * SistakaNG : main method to run the program that has been created 
 
 ## Frontend files:
@@ -28,9 +28,9 @@ SistakaNG is the final project of OOP programming foundations course in Universi
   *  PengembalianPanel : panel to return books
 * staf
   *  DaftarPeminjamPanel : panel to see the list of the borrower
-  *  DetailAnggotaPanel : panel for seeing members detail
+  *  DetailAnggotaPanel : panel for seeing member's detail
   *  HapusBukuPanel : panel to remove books
-  *  PeringkatPanel : panel to see the users rank
+  *  PeringkatPanel : panel to see the user's rank
   *  StafHomePanel : panel for staf menu
   *  TambahBukuPanel : panel to add books
   *  TambahDosenPanel : panel to add lecturer members
