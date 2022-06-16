@@ -42,7 +42,7 @@ SistakaNG is the final project of the OOP programming foundations course at the 
 * LoginPanel : panel for user/staf login
 
 ## Main file
-* SistakaNGUI : main program to execute the loan book system
+* SistakaNGUI : main program to execute the book loan system
 
 ## Features
 
